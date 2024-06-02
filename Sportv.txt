@@ -1,0 +1,396 @@
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="https://www.satfrequency.com/wp-content/uploads/ktz/Sport-TV-3-HD-Satellite-2yze6ql8o58qc69amcdhxm.png" group-title="Portugal",PT: SPORT TV 3 FHD
+http://799139845903339545.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/339545.ts
+#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="PT: SPORT TV 6 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-tv-6-pt.png" group-title="Portugal",PT: SPORT TV 6 FHD
+http://799139845903416381.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/416381.ts
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 SD" tvg-logo="https://i.pinimg.com/originals/81/31/7a/81317a6d2382e0213799c22ac89da9a8.png" group-title="Portugal",PT: SPORT TV 1 SD
+http://799139845903623298.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/623298.ts
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV 5 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/9bf5af3772129242bc57be6863073ff7.png" group-title="Portugal",PT: SPORT TV 5 HD
+http://799139845903777317.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/777317.ts
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2 SD" tvg-logo="https://i1.wp.com/www.millereponses.com/wp-content/uploads/2018/11/sport-tv2hd-frequence-hispasat.png" group-title="Portugal",PT: SPORT TV 2 SD
+http://799139845903798248.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/798248.ts
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT: SPORT TV 4 HEVC" tvg-logo="https://i1.wp.com/1.bp.blogspot.com/-sSoHu8yNg7Q/V_YOzJcaLKI/AAAAAAAABq0/bJ4dJhM-DvIh8dugy8d63VfChRbzei6-ACLcB/s1600/urrwxq1436898891.png" group-title="Portugal",PT: SPORT TV 4 HEVC
+http://799139845903798249.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/798249.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTV 1 HD" tvg-logo="" group-title="Portugal",PT: SPORTV 1 HD
+http://799139845903802499.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/802499.ts
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 HD" tvg-logo="https://i.pinimg.com/originals/81/31/7a/81317a6d2382e0213799c22ac89da9a8.png" group-title="Portugal",PT: SPORT TV 1 HD
+http://799139845903855656.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/855656.ts
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 HEVC" tvg-logo="https://www.satfrequency.com/wp-content/uploads/ktz/Sport-TV-3-HD-Satellite-2yze6ql8o58qc69amcdhxm.png" group-title="Portugal",PT: SPORT TV 3 HEVC
+http://799139845903857188.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/857188.ts
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 SD" tvg-logo="https://www.satfrequency.com/wp-content/uploads/ktz/Sport-TV-3-HD-Satellite-2yze6ql8o58qc69amcdhxm.png" group-title="Portugal",PT: SPORT TV 3 SD
+http://799139845903857189.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/857189.ts
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="https://www.satfrequency.com/wp-content/uploads/ktz/Sport-TV-3-HD-Satellite-2yze6ql8o58qc69amcdhxm.png" group-title="Portugal",PT: SPORT TV 3 FHD
+http://430157538976339545.ofk0601.xyz:80/play/Kurrit921D/641590179M121/339545.ts
+#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="PT: SPORT TV 6 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-tv-6-pt.png" group-title="Portugal",PT: SPORT TV 6 FHD
+http://430157538976416381.ofk0601.xyz:80/play/Kurrit921D/641590179M121/416381.ts
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 SD" tvg-logo="https://i.pinimg.com/originals/81/31/7a/81317a6d2382e0213799c22ac89da9a8.png" group-title="Portugal",PT: SPORT TV 1 SD
+http://430157538976623298.ofk0601.xyz:80/play/Kurrit921D/641590179M121/623298.ts
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV 5 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/9bf5af3772129242bc57be6863073ff7.png" group-title="Portugal",PT: SPORT TV 5 HD
+http://430157538976777317.ofk0601.xyz:80/play/Kurrit921D/641590179M121/777317.ts
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2 SD" tvg-logo="https://i1.wp.com/www.millereponses.com/wp-content/uploads/2018/11/sport-tv2hd-frequence-hispasat.png" group-title="Portugal",PT: SPORT TV 2 SD
+http://430157538976798248.ofk0601.xyz:80/play/Kurrit921D/641590179M121/798248.ts
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT: SPORT TV 4 HEVC" tvg-logo="https://i1.wp.com/1.bp.blogspot.com/-sSoHu8yNg7Q/V_YOzJcaLKI/AAAAAAAABq0/bJ4dJhM-DvIh8dugy8d63VfChRbzei6-ACLcB/s1600/urrwxq1436898891.png" group-title="Portugal",PT: SPORT TV 4 HEVC
+http://430157538976798249.ofk0601.xyz:80/play/Kurrit921D/641590179M121/798249.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTV 1 HD" tvg-logo="" group-title="Portugal",PT: SPORTV 1 HD
+http://430157538976802499.ofk0601.xyz:80/play/Kurrit921D/641590179M121/802499.ts
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="https://i1.wp.com/1.bp.blogspot.com/-sSoHu8yNg7Q/V_YOzJcaLKI/AAAAAAAABq0/bJ4dJhM-DvIh8dugy8d63VfChRbzei6-ACLcB/s1600/urrwxq1436898891.png" group-title="Portugal",PT: SPORT TV 4 FHD
+http://430157538976852838.ofk0601.xyz:80/play/Kurrit921D/641590179M121/852838.ts
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV 5 SD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-tv-5-pt.png" group-title="Portugal",PT: SPORT TV 5 SD
+http://430157538976853974.ofk0601.xyz:80/play/Kurrit921D/641590179M121/853974.ts
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 HD" tvg-logo="https://i.pinimg.com/originals/81/31/7a/81317a6d2382e0213799c22ac89da9a8.png" group-title="Portugal",PT: SPORT TV 1 HD
+http://430157538976855656.ofk0601.xyz:80/play/Kurrit921D/641590179M121/855656.ts
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 HEVC" tvg-logo="https://www.satfrequency.com/wp-content/uploads/ktz/Sport-TV-3-HD-Satellite-2yze6ql8o58qc69amcdhxm.png" group-title="Portugal",PT: SPORT TV 3 HEVC
+http://430157538976857188.ofk0601.xyz:80/play/Kurrit921D/641590179M121/857188.ts
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 SD" tvg-logo="https://www.satfrequency.com/wp-content/uploads/ktz/Sport-TV-3-HD-Satellite-2yze6ql8o58qc69amcdhxm.png" group-title="Portugal",PT: SPORT TV 3 SD
+http://430157538976857189.ofk0601.xyz:80/play/Kurrit921D/641590179M121/857189.ts
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="https://www.satfrequency.com/wp-content/uploads/ktz/Sport-TV-3-HD-Satellite-2yze6ql8o58qc69amcdhxm.png" group-title="Portugal",PT: SPORT TV 3 FHD
+http://934189609995339545.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/339545.ts
+#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="PT: SPORT TV 6 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-tv-6-pt.png" group-title="Portugal",PT: SPORT TV 6 FHD
+http://934189609995416381.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/416381.ts
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 SD" tvg-logo="https://i.pinimg.com/originals/81/31/7a/81317a6d2382e0213799c22ac89da9a8.png" group-title="Portugal",PT: SPORT TV 1 SD
+http://934189609995623298.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/623298.ts
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV 5 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/9bf5af3772129242bc57be6863073ff7.png" group-title="Portugal",PT: SPORT TV 5 HD
+http://934189609995777317.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/777317.ts
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2 SD" tvg-logo="https://i1.wp.com/www.millereponses.com/wp-content/uploads/2018/11/sport-tv2hd-frequence-hispasat.png" group-title="Portugal",PT: SPORT TV 2 SD
+http://934189609995798248.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/798248.ts
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT: SPORT TV 4 HEVC" tvg-logo="https://i1.wp.com/1.bp.blogspot.com/-sSoHu8yNg7Q/V_YOzJcaLKI/AAAAAAAABq0/bJ4dJhM-DvIh8dugy8d63VfChRbzei6-ACLcB/s1600/urrwxq1436898891.png" group-title="Portugal",PT: SPORT TV 4 HEVC
+http://934189609995798249.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/798249.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTV 1 HD" tvg-logo="" group-title="Portugal",PT: SPORTV 1 HD
+http://934189609995802499.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/802499.ts
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV 5 SD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-tv-5-pt.png" group-title="Portugal",PT: SPORT TV 5 SD
+http://934189609995853974.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/853974.ts
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 HD" tvg-logo="https://i.pinimg.com/originals/81/31/7a/81317a6d2382e0213799c22ac89da9a8.png" group-title="Portugal",PT: SPORT TV 1 HD
+http://934189609995855656.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/855656.ts
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 HEVC" tvg-logo="https://www.satfrequency.com/wp-content/uploads/ktz/Sport-TV-3-HD-Satellite-2yze6ql8o58qc69amcdhxm.png" group-title="Portugal",PT: SPORT TV 3 HEVC
+http://934189609995857188.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/857188.ts
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 SD" tvg-logo="https://www.satfrequency.com/wp-content/uploads/ktz/Sport-TV-3-HD-Satellite-2yze6ql8o58qc69amcdhxm.png" group-title="Portugal",PT: SPORT TV 3 SD
+#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="PT: SPORT TV 6 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-tv-6-pt.png" group-title="Portugal",PT: SPORT TV 6 FHD
+http://691210543688416381.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/416381.ts
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 SD" tvg-logo="https://i.pinimg.com/originals/81/31/7a/81317a6d2382e0213799c22ac89da9a8.png" group-title="Portugal",PT: SPORT TV 1 SD
+http://691210543688623298.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/623298.ts
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV 5 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/9bf5af3772129242bc57be6863073ff7.png" group-title="Portugal",PT: SPORT TV 5 HD
+http://691210543688777317.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/777317.ts
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2 SD" tvg-logo="https://i1.wp.com/www.millereponses.com/wp-content/uploads/2018/11/sport-tv2hd-frequence-hispasat.png" group-title="Portugal",PT: SPORT TV 2 SD
+http://691210543688798248.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/798248.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTV 1 HD" tvg-logo="" group-title="Portugal",PT: SPORTV 1 HD
+http://691210543688802499.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/802499.ts
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV 5 SD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-tv-5-pt.png" group-title="Portugal",PT: SPORT TV 5 SD
+http://691210543688853974.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/853974.ts
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 HD" tvg-logo="https://i.pinimg.com/originals/81/31/7a/81317a6d2382e0213799c22ac89da9a8.png" group-title="Portugal",PT: SPORT TV 1 HD
+http://691210543688855656.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/855656.ts
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 HEVC" tvg-logo="https://www.satfrequency.com/wp-content/uploads/ktz/Sport-TV-3-HD-Satellite-2yze6ql8o58qc69amcdhxm.png" group-title="Portugal",PT: SPORT TV 3 HEVC
+http://691210543688857188.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/857188.ts
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 SD" tvg-logo="https://www.satfrequency.com/wp-content/uploads/ktz/Sport-TV-3-HD-Satellite-2yze6ql8o58qc69amcdhxm.png" group-title="Portugal",PT: SPORT TV 3 SD
+http://691210543688857189.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/857189.ts
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="https://www.satfrequency.com/wp-content/uploads/ktz/Sport-TV-3-HD-Satellite-2yze6ql8o58qc69amcdhxm.png" group-title="Portugal",PT: SPORT TV 3 FHD
+http://477222195778339545.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/339545.ts
+#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="PT: SPORT TV 6 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-tv-6-pt.png" group-title="Portugal",PT: SPORT TV 6 FHD
+http://477222195778416381.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/416381.ts
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 SD" tvg-logo="https://i.pinimg.com/originals/81/31/7a/81317a6d2382e0213799c22ac89da9a8.png" group-title="Portugal",PT: SPORT TV 1 SD
+http://477222195778623298.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/623298.ts
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV 5 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/9bf5af3772129242bc57be6863073ff7.png" group-title="Portugal",PT: SPORT TV 5 HD
+http://477222195778777317.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/777317.ts
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2 SD" tvg-logo="https://i1.wp.com/www.millereponses.com/wp-content/uploads/2018/11/sport-tv2hd-frequence-hispasat.png" group-title="Portugal",PT: SPORT TV 2 SD
+http://477222195778798248.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/798248.ts
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT: SPORT TV 4 HEVC" tvg-logo="https://i1.wp.com/1.bp.blogspot.com/-sSoHu8yNg7Q/V_YOzJcaLKI/AAAAAAAABq0/bJ4dJhM-DvIh8dugy8d63VfChRbzei6-ACLcB/s1600/urrwxq1436898891.png" group-title="Portugal",PT: SPORT TV 4 HEVC
+http://477222195778798249.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/798249.ts
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV 5 SD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-tv-5-pt.png" group-title="Portugal",PT: SPORT TV 5 SD
+http://477222195778853974.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/853974.ts
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 HD" tvg-logo="https://i.pinimg.com/originals/81/31/7a/81317a6d2382e0213799c22ac89da9a8.png" group-title="Portugal",PT: SPORT TV 1 HD
+http://477222195778855656.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/855656.ts
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 HEVC" tvg-logo="https://www.satfrequency.com/wp-content/uploads/ktz/Sport-TV-3-HD-Satellite-2yze6ql8o58qc69amcdhxm.png" group-title="Portugal",PT: SPORT TV 3 HEVC
+http://477222195778857188.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/857188.ts
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 SD" tvg-logo="https://www.satfrequency.com/wp-content/uploads/ktz/Sport-TV-3-HD-Satellite-2yze6ql8o58qc69amcdhxm.png" group-title="Portugal",PT: SPORT TV 3 SD
+http://477222195778857189.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/857189.ts
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="https://www.satfrequency.com/wp-content/uploads/ktz/Sport-TV-3-HD-Satellite-2yze6ql8o58qc69amcdhxm.png" group-title="Portugal",PT: SPORT TV 3 FHD
+http://62023509268339545.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/339545.ts
+#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="PT: SPORT TV 6 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-tv-6-pt.png" group-title="Portugal",PT: SPORT TV 6 FHD
+http://62023509268416381.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/416381.ts
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 SD" tvg-logo="https://i.pinimg.com/originals/81/31/7a/81317a6d2382e0213799c22ac89da9a8.png" group-title="Portugal",PT: SPORT TV 1 SD
+http://62023509268623298.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/623298.ts
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV 5 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/9bf5af3772129242bc57be6863073ff7.png" group-title="Portugal",PT: SPORT TV 5 HD
+http://62023509268777317.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/777317.ts
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2 SD" tvg-logo="https://i1.wp.com/www.millereponses.com/wp-content/uploads/2018/11/sport-tv2hd-frequence-hispasat.png" group-title="Portugal",PT: SPORT TV 2 SD
+http://62023509268798248.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/798248.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTV 1 HD" tvg-logo="" group-title="Portugal",PT: SPORTV 1 HD
+http://62023509268802499.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/802499.ts
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV 5 SD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-tv-5-pt.png" group-title="Portugal",PT: SPORT TV 5 SD
+http://62023509268853974.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/853974.ts
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 HD" tvg-logo="https://i.pinimg.com/originals/81/31/7a/81317a6d2382e0213799c22ac89da9a8.png" group-title="Portugal",PT: SPORT TV 1 HD
+http://62023509268855656.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/855656.ts
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 HEVC" tvg-logo="https://www.satfrequency.com/wp-content/uploads/ktz/Sport-TV-3-HD-Satellite-2yze6ql8o58qc69amcdhxm.png" group-title="Portugal",PT: SPORT TV 3 HEVC
+http://62023509268857188.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/857188.ts
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 SD" tvg-logo="https://www.satfrequency.com/wp-content/uploads/ktz/Sport-TV-3-HD-Satellite-2yze6ql8o58qc69amcdhxm.png" group-title="Portugal",PT: SPORT TV 3 SD
+http://62023509268857189.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/857189.ts
+#EXTINF:-1,PT: SPORT TV 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1483
+#EXTINF:-1,PT: SPORT TV 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1486
+#EXTINF:-1,PT: SPORT TV 3
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1489
+#EXTINF:-1,PT: SPORT TV 4
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1492
+#EXTINF:-1,PT: SPORT TV 5
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1495
+#EXTINF:-1,PT: SPORT TV 6
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/281487
+#EXTINF:-1,PT - SPORT TV 1 HD
+http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62071
+#EXTINF:-1,PT - SPORT TV 4 HD
+http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62074
+#EXTINF:-1,PT - Sport TV 2
+http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62079
+#EXTINF:-1,PT - Sport TV 5
+http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62082
+#EXTINF:-1,SPORT TV 1 4k
+http://c4n.fun:80/12068534/436822/1047365.ts
+#EXTINF:-1,SPORT TV 1  ᶠᴴᴰ
+http://c4n.fun:80/12068534/436822/1047366.ts
+#EXTINF:-1,SPORT TV 1 extra
+http://c4n.fun:80/12068534/436822/1047367.ts
+#EXTINF:-1,SPORT TV 1
+http://c4n.fun:80/12068534/436822/1047368.ts
+#EXTINF:-1,SPORT TV 2  4K
+http://c4n.fun:80/12068534/436822/1047369.ts
+#EXTINF:-1,SPORT TV 2 ᶠᴴᴰ
+http://c4n.fun:80/12068534/436822/1047370.ts
+#EXTINF:-1,SPORT TV 2
+http://c4n.fun:80/12068534/436822/1047371.ts
+#EXTINF:-1,SPORT TV 3 ᶠᴴᴰ
+http://c4n.fun:80/12068534/436822/1047372.ts
+#EXTINF:-1,SPORT TV 3
+http://c4n.fun:80/12068534/436822/1047373.ts
+#EXTINF:-1,SPORT TV 4 ᶠᴴᴰ
+http://c4n.fun:80/12068534/436822/1047374.ts
+#EXTINF:-1,SPORT TV 4
+http://c4n.fun:80/12068534/436822/1047375.ts
+#EXTINF:-1,SPORT TV 5 ᶠᴴᴰ
+http://c4n.fun:80/12068534/436822/1047376.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
